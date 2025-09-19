@@ -15,6 +15,7 @@ Win11React is designed to look like the Real Windows 11. Built from scratch usin
 [andrewstech](https://github.com/andrewstech/) - Creator of the Deploy Preview system. Maintains the app store.
 
 [Yashash](https://github.com/yashash-pugalia) - Creator of the settings app & Fixer of bugs.
+[0323717](https://ryanpan.github.io) - A people that likes win11 in react and downloaded many apps in it.
 
 ## Contributors
 
@@ -30,7 +31,6 @@ Win11React is designed to look like the Real Windows 11. Built from scratch usin
   <img src="https://contrib.rocks/image?repo=win11react/store" />
 </a>
 
-### Docs
 
 <a href="https://github.com/win11react/docs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=win11react/docs" />
